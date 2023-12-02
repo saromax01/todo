@@ -1,0 +1,9 @@
+.cont {
+  display: flex;
+  flex-direction: column;
+}
+.navbar-nav .nav-item .nav-link:active,
+.navbar-nav .nav-item .nav-link.active {
+  background-color: rgb(136, 26, 136);
+  color: white;
+}

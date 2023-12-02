@@ -1,0 +1,32 @@
+.hgf {
+  margin-inline: auto;
+  width: 500px !important;
+}
+.thp {
+  margin-inline: auto !important;
+  width: 500px !important;
+  text-align: center;
+}
+.todo-list {
+  margin-inline: auto !important;
+  width: 500px !important;
+  text-align: center;
+  list-style-type: none;
+  padding: 0;
+}
+
+.todo-list li {
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+  margin: 5px;
+}
+
+.loading-message {
+  font-style: italic;
+  color: #322e2e;
+}
+
+.no-todos-message {
+  font-weight: bold;
+  color: rgb(55, 53, 53);
+}
